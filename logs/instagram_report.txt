@@ -1,0 +1,102 @@
+Run 1  
+
+Tracing route to instagram.com [2a03:2880:f311:22:face:b00c:0:4420]
+over a maximum of 30 hops:
+
+  1     2 ms     2 ms     2 ms  2409:40c1:4000:f2de::7d 
+  2     *        *        *     Request timed out.
+  3    16 ms    18 ms    19 ms  2405:200:5210:3:3925::1 
+  4     *        *        *     Request timed out.
+  5     *        *        *     Request timed out.
+  6    23 ms    19 ms    19 ms  2405:200:801:b00::39c 
+  7     *        *        *     Request timed out.
+  8    27 ms    19 ms    19 ms  2405:203:400:100:172:31:3:23 
+  9    38 ms    41 ms    32 ms  ae4.pr02.del1.tfbnw.net [2620:0:1cff:dead:beee::e7c] 
+ 10    40 ms    33 ms    29 ms  ae4.pr02.del1.tfbnw.net [2620:0:1cff:dead:beee::e7c] 
+ 11    36 ms    38 ms    40 ms  po402.asw01.del2.tfbnw.net [2620:0:1cff:dead:beef::94af] 
+ 12    39 ms    43 ms    34 ms  po2018.usw02.del3.tfbnw.net [2620:0:1cff:dead:beef::88d5] 
+ 13    38 ms    40 ms    44 ms  be3.msw1bh.01.del3.tfbnw.net [2620:0:1c00:41::1a9] 
+ 14    46 ms    35 ms    34 ms  instagram-p426-shv-01-del3.fbcdn.net [2a03:2880:f311:22:face:b00c:0:4420] 
+
+Trace complete.
+Run 2  
+
+Tracing route to instagram.com [2a03:2880:f312:22:face:b00c:0:4420]
+over a maximum of 30 hops:
+
+  1     3 ms     2 ms     2 ms  2409:40c1:4000:f2de::7d 
+  2     *        *        *     Request timed out.
+  3    20 ms     9 ms    17 ms  2405:200:5210:3:3925::1 
+  4     *        *        *     Request timed out.
+  5     *        *        *     Request timed out.
+  6    20 ms    10 ms    19 ms  2405:200:801:b00::39c 
+  7     *        *        *     Request timed out.
+  8    95 ms    42 ms    20 ms  2405:203:400:100:172:31:3:23 
+  9    21 ms    20 ms    18 ms  ae1001.pr01.bom5.tfbnw.net [2620:0:1cff:dead:beee::348] 
+ 10    21 ms    23 ms    19 ms  po4000.asw02.bom2.tfbnw.net [2620:0:1cff:dead:beef::1a04] 
+ 11    25 ms    24 ms    18 ms  po2028.usw02.bom5.tfbnw.net [2620:0:1cff:dead:beef::2617] 
+ 12    26 ms    19 ms    29 ms  be6.msw1aa.02.bom5.tfbnw.net [2620:0:1c00:2a:3::ab] 
+ 13    26 ms    18 ms    24 ms  instagram-p426-shv-02-bom5.fbcdn.net [2a03:2880:f312:22:face:b00c:0:4420] 
+
+Trace complete.
+Run 3  
+
+Tracing route to instagram.com [2a03:2880:f379:22:face:b00c:0:4420]
+over a maximum of 30 hops:
+
+  1     3 ms     2 ms     2 ms  2409:40c1:4000:f2de::7d 
+  2     *        *        *     Request timed out.
+  3    16 ms    19 ms    14 ms  2405:200:5210:3:3925::1 
+  4     *        *        *     Request timed out.
+  5     *        *        *     Request timed out.
+  6    17 ms    18 ms    20 ms  2405:200:801:b00::39c 
+  7     *        *        *     Request timed out.
+  8    23 ms    24 ms    19 ms  2405:203:400:100:172:31:2:73 
+  9    30 ms    24 ms    19 ms  ae1003.pr04.bom5.tfbnw.net [2620:0:1cff:dead:beee::5da] 
+ 10    23 ms    18 ms    19 ms  po4003.asw02.bom2.tfbnw.net [2620:0:1cff:dead:beef::7948] 
+ 11    30 ms    23 ms    18 ms  po2028.usw04.bom5.tfbnw.net [2620:0:1cff:dead:beef::6d6b] 
+ 12    30 ms    26 ms    26 ms  be8.msw1bm.01.bom5.tfbnw.net [2620:0:1c00:2a:2::173] 
+ 13    36 ms    33 ms    25 ms  instagram-p426-shv-01-bom5.fbcdn.net [2a03:2880:f379:22:face:b00c:0:4420] 
+
+Trace complete.
+Run 4  
+
+Tracing route to instagram.com [2a03:2880:f311:22:face:b00c:0:4420]
+over a maximum of 30 hops:
+
+  1     3 ms     2 ms     2 ms  2409:40c1:4000:f2de::7d 
+  2     *        *        *     Request timed out.
+  3    16 ms    13 ms     9 ms  2405:200:5210:3:3925::1 
+  4     *        *        *     Request timed out.
+  5     *        *        *     Request timed out.
+  6    15 ms    19 ms    19 ms  2405:200:801:b00::39c 
+  7     *        *        *     Request timed out.
+  8    54 ms    27 ms    39 ms  2405:203:400:100:172:31:3:23 
+  9    50 ms    77 ms    36 ms  ae4.pr02.del1.tfbnw.net [2620:0:1cff:dead:beee::e7c] 
+ 10    50 ms    49 ms    44 ms  ae4.pr02.del1.tfbnw.net [2620:0:1cff:dead:beee::e7c] 
+ 11    59 ms    40 ms    38 ms  po402.asw01.del2.tfbnw.net [2620:0:1cff:dead:beef::94af] 
+ 12    45 ms    39 ms    38 ms  po2018.usw02.del3.tfbnw.net [2620:0:1cff:dead:beef::88d5] 
+ 13    43 ms    43 ms    33 ms  be3.msw1bh.01.del3.tfbnw.net [2620:0:1c00:41::1a9] 
+ 14    40 ms    36 ms    55 ms  instagram-p426-shv-01-del3.fbcdn.net [2a03:2880:f311:22:face:b00c:0:4420] 
+
+Trace complete.
+Run 5  
+
+Tracing route to instagram.com [2a03:2880:f312:22:face:b00c:0:4420]
+over a maximum of 30 hops:
+
+  1     2 ms     2 ms     3 ms  2409:40c1:4000:f2de::7d 
+  2     *        *        *     Request timed out.
+  3    21 ms    40 ms    19 ms  2405:200:5210:3:3925::1 
+  4     *        *        *     Request timed out.
+  5     *        *        *     Request timed out.
+  6    38 ms    16 ms    13 ms  2405:200:801:b00::39c 
+  7     *        *        *     Request timed out.
+  8    32 ms     *       81 ms  2405:203:400:100:172:31:3:23 
+  9    23 ms    20 ms    16 ms  ae1001.pr01.bom5.tfbnw.net [2620:0:1cff:dead:beee::348] 
+ 10    35 ms    25 ms    39 ms  po4000.asw02.bom2.tfbnw.net [2620:0:1cff:dead:beef::1a04] 
+ 11    49 ms    23 ms    24 ms  po2028.usw02.bom5.tfbnw.net [2620:0:1cff:dead:beef::2617] 
+ 12    35 ms    19 ms    33 ms  be6.msw1aa.02.bom5.tfbnw.net [2620:0:1c00:2a:3::ab] 
+ 13     *       42 ms    25 ms  instagram-p426-shv-02-bom5.fbcdn.net [2a03:2880:f312:22:face:b00c:0:4420] 
+
+Trace complete.

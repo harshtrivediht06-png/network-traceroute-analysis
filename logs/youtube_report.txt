@@ -1,0 +1,136 @@
+Run 1  
+
+Tracing route to youtube.com [2404:6800:4000:100e::5b]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     3 ms  2409:40c1:4000:f2de::7d 
+  2     *        *        *     Request timed out.
+  3   116 ms   103 ms   104 ms  2405:200:5210:3:3925::1 
+  4     *        *        *     Request timed out.
+  5     *        *        *     Request timed out.
+  6    59 ms    57 ms    46 ms  2405:200:801:b00::39e 
+  7     *        *        *     Request timed out.
+  8     *      144 ms    59 ms  2405:203:400:100:172:31:2:73 
+  9     *       66 ms    57 ms  2001:4860:1:1::1b38 
+ 10    81 ms    38 ms    38 ms  2001:4860:0:1::877b 
+ 11    79 ms    54 ms    38 ms  2001:4860:0:1::876a 
+ 12    99 ms    67 ms    51 ms  2001:4860:0:1::773f 
+ 13     *      105 ms    50 ms  2001:4860:0:1::126c 
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *      113 ms    81 ms  pu-in-f91.1e100.net [2404:6800:4000:100e::5b] 
+
+Trace complete.
+Run 2  
+
+Tracing route to youtube.com [2404:6800:4000:100e::5b]
+over a maximum of 30 hops:
+
+  1     3 ms     2 ms     3 ms  2409:40c1:4000:f2de::7d 
+  2     *        *        *     Request timed out.
+  3     *       79 ms    38 ms  2405:200:5210:3:3925::1 
+  4     *        *        *     Request timed out.
+  5     *        *        *     Request timed out.
+  6   123 ms    59 ms    53 ms  2405:200:801:b00::39e 
+  7     *        *        *     Request timed out.
+  8    77 ms    71 ms    56 ms  2405:203:400:100:172:31:2:73 
+  9    98 ms    67 ms    56 ms  2001:4860:1:1::1b38 
+ 10    83 ms    64 ms    60 ms  2001:4860:0:1::877b 
+ 11    81 ms    57 ms    59 ms  2001:4860:0:1::876a 
+ 12    69 ms    58 ms    79 ms  2001:4860:0:1::773f 
+ 13    71 ms    60 ms    58 ms  2001:4860:0:1::126c 
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20    84 ms   100 ms    71 ms  pu-in-f91.1e100.net [2404:6800:4000:100e::5b] 
+
+Trace complete.
+Run 3  
+
+Tracing route to youtube.com [2404:6800:4000:1017::5b]
+over a maximum of 30 hops:
+
+  1     3 ms     6 ms     2 ms  2409:40c1:4000:f2de::7d 
+  2     *        *        *     Request timed out.
+  3     *       72 ms    53 ms  2405:200:5210:3:3925::1 
+  4     *        *        *     Request timed out.
+  5     *        *        *     Request timed out.
+  6     *        *      186 ms  2405:200:801:b00::398 
+  7     *        *        *     Request timed out.
+  8   479 ms   622 ms   128 ms  2405:203:400:100:172:31:2:73 
+  9   212 ms   461 ms    95 ms  2001:4860:1:1::1b38 
+ 10     *        *      163 ms  2001:4860:0:1::87f3 
+ 11   116 ms   111 ms    81 ms  2001:4860:0:1::9c30 
+ 12     *        *       84 ms  2001:4860:0:1::2bcf 
+ 13  1573 ms   703 ms   690 ms  2001:4860:0:1::3c26 
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20   552 ms    60 ms    42 ms  ly-in-f91.1e100.net [2404:6800:4000:1017::5b] 
+
+Trace complete.
+Run 4  
+
+Tracing route to youtube.com [2404:6800:4000:1017::5b]
+over a maximum of 30 hops:
+
+  1     3 ms     2 ms     2 ms  2409:40c1:4000:f2de::7d 
+  2     *        *        *     Request timed out.
+  3     *       65 ms    52 ms  2405:200:5210:3:3925::1 
+  4     *        *        *     Request timed out.
+  5     *        *        *     Request timed out.
+  6    59 ms    40 ms    53 ms  2405:200:801:b00::398 
+  7     *        *        *     Request timed out.
+  8    87 ms    44 ms    63 ms  2405:203:400:100:172:31:2:73 
+  9    73 ms    60 ms    93 ms  2001:4860:1:1::1b38 
+ 10     *       99 ms   525 ms  2001:4860:0:1::87f3 
+ 11   178 ms    86 ms    56 ms  2001:4860:0:1::9c30 
+ 12   311 ms    77 ms    61 ms  2001:4860:0:1::2bcf 
+ 13     *      225 ms    58 ms  2001:4860:0:1::3c26 
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20   622 ms     *      538 ms  ly-in-f91.1e100.net [2404:6800:4000:1017::5b] 
+
+Trace complete.
+Run 5  
+
+Tracing route to youtube.com [2404:6800:4000:1017::88]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     3 ms  2409:40c1:4000:f2de::7d 
+  2     *        *        *     Request timed out.
+  3    90 ms    68 ms    84 ms  2405:200:5210:3:3925::1 
+  4     *        *        *     Request timed out.
+  5     *        *        *     Request timed out.
+  6    94 ms    63 ms    44 ms  2405:200:801:b00::39a 
+  7     *        *        *     Request timed out.
+  8   382 ms   300 ms   723 ms  2405:203:400:100:172:31:2:73 
+  9     *      115 ms    58 ms  2404:6800:8281:180::1 
+ 10   155 ms    65 ms    56 ms  2404:6800:8281:180::1 
+ 11     *       69 ms    71 ms  2001:4860:0:1::4fde 
+ 12    85 ms    70 ms    48 ms  2001:4860:0:1::3fe4 
+ 13   148 ms   194 ms   160 ms  2001:4860:0:1::7747 
+ 14    71 ms    42 ms    77 ms  2001:4860:0:1::7154 
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21    51 ms    38 ms    42 ms  ly-in-f136.1e100.net [2404:6800:4000:1017::88] 
+
+Trace complete.

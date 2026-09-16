@@ -1,0 +1,129 @@
+Run 1  
+
+Tracing route to amazon.com [64:ff9b::6257:aa47]
+over a maximum of 30 hops:
+
+  1     3 ms     2 ms     4 ms  2409:40c1:4000:f2de::7d 
+  2     *        *        *     Request timed out.
+  3    20 ms    19 ms    18 ms  2405:200:5210:3:3925::1 
+  4    23 ms    15 ms     8 ms  2405:200:898:3632:62::9 
+  5    16 ms     9 ms    19 ms  64:ff9b::c0a8:e3c2 
+  6     9 ms    13 ms    14 ms  64:ff9b::c0a8:f488 
+  7     *        *        *     Request timed out.
+  8     *        *        *     Request timed out.
+  9    32 ms    18 ms    19 ms  64:ff9b::312c:dcf1 
+ 10   211 ms   216 ms   206 ms  64:ff9b::67c6:8ccd 
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
+Run 2  
+
+Tracing route to amazon.com [64:ff9b::6257:aa47]
+over a maximum of 30 hops:
+
+  1     3 ms     2 ms     3 ms  2409:40c1:4000:f2de::7d 
+  2     *        *        *     Request timed out.
+  3    12 ms    14 ms    14 ms  2405:200:5210:3:3925::1 
+  4    20 ms    17 ms    15 ms  2405:200:898:3632:62::9 
+  5    18 ms    13 ms    13 ms  64:ff9b::c0a8:e3c2 
+  6    11 ms    20 ms    18 ms  64:ff9b::c0a8:f488 
+  7     *        *        *     Request timed out.
+  8     *        *        *     Request timed out.
+  9    25 ms    30 ms    26 ms  64:ff9b::312c:dcf1 
+ 10   211 ms   203 ms   206 ms  64:ff9b::67c6:8ccd 
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
+Run 3  
+
+Tracing route to amazon.com [64:ff9b::6257:aa47]
+over a maximum of 30 hops:
+
+  1     4 ms     2 ms     2 ms  2409:40c1:4000:f2de::7d 
+  2     *        *        *     Request timed out.
+  3    27 ms    19 ms    13 ms  2405:200:5210:3:3925::1 
+  4    18 ms    18 ms    19 ms  2405:200:898:3632:62::9 
+  5    16 ms    14 ms    14 ms  64:ff9b::c0a8:e3c3 
+  6    20 ms    18 ms    19 ms  64:ff9b::c0a8:f488 
+  7     *        *        *     Request timed out.
+  8     *        *        *     Request timed out.
+  9    25 ms    19 ms    25 ms  64:ff9b::312c:dcf1 
+ 10   208 ms   267 ms   210 ms  64:ff9b::67c6:8ccd 
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
+Run 4  
+
+Tracing route to amazon.com [64:ff9b::6257:aa47]
+over a maximum of 30 hops:
+
+  1     4 ms    16 ms     2 ms  2409:40c1:4000:f2de::7d 
+  2     *        *        *     Request timed out.
+  3    13 ms    15 ms    16 ms  2405:200:5210:3:3925::1 
+  4    22 ms    20 ms    16 ms  2405:200:898:3632:62::9 
+  5    17 ms    20 ms    19 ms  64:ff9b::c0a8:e3c2 
+  6    19 ms    19 ms    19 ms  64:ff9b::c0a8:f488 
+  7     *        *        *     Request timed out.
+  8     *        *        *     Request timed out.
+  9  General failure.
+
+Trace complete.
+Run 5  
+Unable to resolve target system name amazon.com.
